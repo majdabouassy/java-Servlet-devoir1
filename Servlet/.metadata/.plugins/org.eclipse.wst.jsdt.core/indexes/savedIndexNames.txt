@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\MAJD\Desktop\Semestre 4 GIC\Applications Distribuées\Servlet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+282180101.index
+1325114459.index
+4276028983.index
+2461411560.index
+1470612205.index
+3552126488.index
